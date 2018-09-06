@@ -76,7 +76,7 @@
     {"id": "engage regional partners to handle payments", "group": 0},
     {"id": "create an ewallet to drive engagement and rewards, enable quick pay from downline to upline", "group": 0},
     {"id": "QR code generation and payment", "group": 0},
-    {"id": "standardization of payment and taxes across region", "group": }
+    {"id": "standardization of payment and taxes across region", "group":0 }
   ],
 
 "links": 
