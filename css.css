@@ -163,14 +163,14 @@ body > pre {
 
 .html .doctype,
 .javascript .number {
-  color: #31a354;
+  color: #756bb1;
 }
 
 .html .attribute,
 .css .attribute,
 .javascript .class,
 .javascript .special {
-  color: #e6550d;
+  color: #756bb1;
 }
 
 svg {
